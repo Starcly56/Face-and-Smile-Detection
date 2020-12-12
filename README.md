@@ -1,2 +1,3 @@
 # Face-and-Smile-Detection
-Face and smile detection using OpenCV library of Python 
+Face detection using Haar classifier of Python 
+Smile detection using OpenCV library of Python 
